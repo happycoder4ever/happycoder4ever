@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=happycoder4ever&label=Profile%20views" />
   <img src="https://img.shields.io/github/followers/happycoder4ever?label=Followers" />
   <img src="https://img.shields.io/github/stars/happycoder4ever?label=Stars" />
-  <img src="https://github-readme-stats.vercel.app/api?username=happycoder4ever&show_icons=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycoder4ever&layout=compact" />
 </p>
 
 I’m a full-stack software developer passionate about building clean, scalable, and useful applications.  
