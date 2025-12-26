@@ -1,11 +1,20 @@
 # Hi, I'm HappyCoder 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=happycoder4ever&label=Profile%20views" />
+  <img src="https://img.shields.io/github/followers/happycoder4ever?label=Followers" />
+  <img src="https://img.shields.io/github/stars/happycoder4ever?label=Stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=happycoder4ever&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycoder4ever&layout=compact" />
+</p>
+
 I’m a full-stack software developer passionate about building clean, scalable, and useful applications.  
 I enjoy solving real-world problems and learning new technologies every day.
 
 ---
 
 ## 🚀 What I Do
+
 - Build full-stack web applications
 - Design clean APIs and backend systems
 - Work with databases and authentication
@@ -16,27 +25,33 @@ I enjoy solving real-world problems and learning new technologies every day.
 ## 🛠 Full Tech Arsenal
 
 ### Programming Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,php,rust,kotlin,swift" />
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,next,vue,angular,html,css,sass,tailwind,redux,vite,webpack" />
 
 ### Backend & APIs
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi,graphql,grpc" />
 
 ### Databases & Messaging
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,rabbitmq,kafka" />
 
 ### DevOps, Cloud & Infra
+
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux,nginx,terraform" />
 
 ### Testing, CI/CD & Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,jest,cypress,playwright,postman" />
 
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,jest,cypress,playwright,postman" />
 
 ---
 
 ## 📚 Currently Learning
+
 - Advanced backend architecture
 - System design basics
 - Performance optimization
@@ -45,13 +60,15 @@ I enjoy solving real-world problems and learning new technologies every day.
 ---
 
 ## 🌱 My Goals
-- Become a strong, well-rounded software engineer  
-- Contribute to meaningful open-source projects  
+
+- Become a strong, well-rounded software engineer
+- Contribute to meaningful open-source projects
 - Build products that help real people
 
 ---
 
 ## 📫 Contact
+
 - GitHub: https://github.com/happycoder4ever
 
 ---
