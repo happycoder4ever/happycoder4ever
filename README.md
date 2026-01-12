@@ -32,7 +32,7 @@ I enjoy solving real-world problems and learning new technologies every day.
 
 ### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi,graphql,grpc" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi,graphql" />
 
 ### Databases & Messaging
 
