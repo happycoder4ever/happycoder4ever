@@ -44,7 +44,7 @@ I enjoy solving real-world problems and learning new technologies every day.
 
 ### Testing, CI/CD & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,jest,cypress,playwright,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,jest,cypress,postman" />
 
 ---
 
